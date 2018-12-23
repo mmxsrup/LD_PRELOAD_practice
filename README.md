@@ -61,7 +61,7 @@ glibcの `time_t time (time_t *t)` を真似て実際の時間+3[sec]の時間�
 
 
 ### Reference
-https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/
-https://qiita.com/koara-local/items/d5205f94decade3ffbf1
-http://matsu911.github.io/Testing/2012/02/27/testing-with-ld_preload/
-https://siguniang.wordpress.com/2015/05/15/override-functions-with-ld_preload/
+https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/  
+https://qiita.com/koara-local/items/d5205f94decade3ffbf1  
+http://matsu911.github.io/Testing/2012/02/27/testing-with-ld_preload/  
+https://siguniang.wordpress.com/2015/05/15/override-functions-with-ld_preload/  
