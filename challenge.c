@@ -17,7 +17,7 @@ int main() {
 	if (key == input) {
 		printf("Pass! flag is %s\n", flag);
 	} else {
-		printf("Wrong, Key is %d\n", key);
+		printf("Wrong (%d), Key is %d\n", input, key);
 	}
 	return 0;
 }
