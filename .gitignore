@@ -1,0 +1,5 @@
+challenge
+challenge.o
+libtime.so
+libtime_env.so
+tmp
