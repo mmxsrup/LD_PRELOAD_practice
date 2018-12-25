@@ -3,7 +3,7 @@ from pwn import *
 p1 = process('./challenge', env={'LD_PRELOAD':'./libtime.so'})
 p1.recv()
 p1.sendline('deadbeef')
-p1.recvuntil('Wrong, Key is ')
+p1.recvuntil('Key is ')
 key = p1.recv()
 print key
 
