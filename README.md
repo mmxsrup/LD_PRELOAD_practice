@@ -9,9 +9,7 @@ make
 ### challenge.c
 `challenge.c` は, `rand()` の戻り値を `key` として設定する. 標準入力に `key` と同じ値を入力すると, flagが出力される.
 
-
-`challenge.c` をコンパイルした `challenge` でどのようにプログラムが実行されているかを以下のようなコマンドで調べると, 
-
+`challenge.c` をコンパイルした `challenge` でどのようにプログラムが実行されているかを以下で調べていく.
 
 
 ### challenge
